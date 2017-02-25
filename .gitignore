@@ -1,0 +1,7 @@
+*.o
+*.hi
+dist/*
+*.o
+setup-config
+.cache
+.log
